@@ -1,0 +1,10 @@
+---
+title: Redação
+subtitle: Redação, Revisão & Tradução
+layout: default
+modal-id: written
+date: 2015-07-31
+thumbnail: type.png
+alt: Portfolio Redação, Revisão & Tradução
+---
+

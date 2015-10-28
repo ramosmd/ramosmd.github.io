@@ -1,0 +1,23 @@
+---
+layout: websites
+title: Portfolio de Websites | Ramos MD
+description: Portfolio de Web Development & Web Design 
+# keywords:
+---
+
+<div class="home">
+
+  <h1>Web</h1>
+
+  <ul class="posts">
+    {% for project in site.web %}
+      <li>
+        <span class="post-date">{{ project.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

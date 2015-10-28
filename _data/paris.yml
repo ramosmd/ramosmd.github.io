@@ -1,0 +1,19 @@
+- url: http://ramosmd.github.io/media/art/paris/04072009169.jpg
+  title: one
+  number: 1
+  caption_color: dark
+
+- url: http://ramosmd.github.io/media/art/paris/CSC_1579.jpg
+  title: two
+  number: 2
+  caption_color: dark
+
+- url: http://ramosmd.github.io/media/art/paris/DSC07538.JPG
+  title: three
+  number: 3
+  caption_color: dark
+
+- url: http://ramosmd.github.io/media/art/paris/DSC08501.JPG
+  title: four
+  number: 4
+  caption_color: light

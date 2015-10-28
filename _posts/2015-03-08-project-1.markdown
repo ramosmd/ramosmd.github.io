@@ -1,0 +1,10 @@
+---
+title: Websites
+subtitle: Web Development & Web Design
+layout: default
+modal-id: web
+date: 2015-09-08
+thumbnail: web.png
+alt: Portfolio Web - Ramos MD
+project-date: Março de 2015
+---

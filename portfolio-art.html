@@ -1,0 +1,23 @@
+---
+layout: art
+title: Art & Photo | Ramos MD
+description: "Portfolio de Fotografia e Produções Artísticas Digitais"
+keywords: fotografia, fotógrafo, fotógrafa, curitiba, quatro-barras, fotografia de produtos, estúdio fotográfico
+---
+
+<div class="home">
+
+  <h1>Web</h1>
+
+  <ul class="posts">
+    {% for project in site.art %}
+      <li>
+        <span class="post-date">{{ project.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

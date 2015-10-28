@@ -1,0 +1,10 @@
+---
+title: Art & Photo
+subtitle: Fotografia & Artes Gráficas
+layout: default
+modal-id: art
+date: 2015-08-17
+thumbnail: art.png
+alt: Portfolio Photo & Art
+project-date: Maio de 2015.
+---
