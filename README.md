@@ -1,4 +1,4 @@
-# http://ramosmd.github.io
+# http://ramosmd.virtuacretive.com.br
 My personal website
 
-For demonstration purposes for now. 
+For demonstration purposes for now. It's gonna be a real site in a few days! :)
